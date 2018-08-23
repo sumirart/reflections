@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Because i can see the different between the old working version of the app
+    and the new bug version and i can compare what's different between them.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Because i can look at the old file from every point of change of the file
+    and do something either just compare or copy paste the code by look at the
+    date of revision/modified
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros when we choosing manual commit is we don't get frustated by lot of
+    commits or revision in file history, there only be commits that we set up
+    and it cleared with commit messages. But the cons is we must think about 
+    when to commit and when not to, and sometimes we can forget to commit after
+    big chunk of revision, or we can too much commiting or we commit in a time
+    that we shouldn't do so, so it makes our file history a lot and messy
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because multiple files like in web project are related each other, so when
+    we do update like adding new features, it's more than one file that changing,
+    so it's easy to keep track of those files that are changing in same time and
+    we can compare those files to another time state
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Because git log shows us log of every commit or file verision, and git diff
+    compare 2 different version of file
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because I can easily revert to previous working version with git checkout
+    and try to figure out what code break the project
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try using Git for commiting every project in study that I made
