@@ -12,3 +12,10 @@ What value do you think it offers?
         publish to repository which is our final folder. It offers you to modify
         all the things before finally push it to repo
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+        After changing one logical change, i can add the file to the staging area,
+        then afterwards i can compare what's in staging area and what's in repo,
+        and check whether i add too much logical change for just one commit or vice
+        versa
+
