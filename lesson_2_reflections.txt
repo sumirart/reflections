@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+        It'll create new .git folder to save lot of things about git.
+        Because I need to create new repository
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+        Working directory list all file in the current directory, staging area only
+        list files that we are adding to it, before we finally commit to repository,
+        and staging area is like experimental folder before we finally decided to
+        publish to repository which is our final folder. It offers you to modify
+        all the things before finally push it to repo
+
