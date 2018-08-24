@@ -34,3 +34,10 @@ How do the diagrams help you visualize the branch structure?
         Because image and other visual style like diagram create better understanding
         rather than just some kind of multiline text
 
+What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+
+        Branch become one and we can see all the previous branchs parent commit in log
+        even after we delete one of them, and Head is moved to the newly merging branch.
+        So it makes clear and easy to understand about branching in git.
+
