@@ -41,3 +41,8 @@ diagram the way we do?
         even after we delete one of them, and Head is moved to the newly merging branch.
         So it makes clear and easy to understand about branching in git.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+        With automatic merging, we just merge 2 branch and done, no need to work, but
+        the cons is it can be a conflict. With manual merge we must set up which code
+        we want to merge, but it gives versatile so it won't be any conflict
