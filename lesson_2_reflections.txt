@@ -29,3 +29,8 @@ organized? How would branches help?
         i can focus on each small features that i want to add then i can merging
         all branch when features is working perfectly
 
+How do the diagrams help you visualize the branch structure?
+
+        Because image and other visual style like diagram create better understanding
+        rather than just some kind of multiline text
+
