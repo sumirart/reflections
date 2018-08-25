@@ -12,3 +12,15 @@ stay up-to-date with your remote repository?
     on the remote. It all depends on how we work, and if Git is automatically stay
     up-to-date with everything on the remote, we might can't have an experiment or
     trying new things, fixing bug etc.
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+    Fork is cloning a repository from and to github, clone is duplicating a repository
+    from local to github or vice versa, and branch is a subsidiary or chapter of a
+    repository, or we can just call it a branch. We use fork when we want to clone
+    someones repository to ours in github, or ours repository to ours organization
+    repository or vice versa. We use clone when we want to clone someones or ours 
+    repository to local, or from local to our github. We use branch if we want to
+    make another path for our work, like when we trying experiment with adding some
+    features or adding another version of the project.
