@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+    When I want to practice to use Git and Github, when I want to publish my work so
+    other people can see and edit my work, and when I need to work with other people,
+    so it's very easy to collaborate. Another thing is when I want to backup my work.
