@@ -35,3 +35,11 @@ would be harder?
 
     Maybe using email and cloud file storage like google drive, dropbox etc. Using git and
     github would be easier, and without them life would be harder :(
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+    When I want to add new features or just experiment, and i want to keep the master
+    bug-free and perfect. Editing directly in master is faster because we just need to
+    push and pull, but master branch will be affected if there is any kind of bug. So
+    we use another branch to test out and merge later if we need to and fix any conflict.
