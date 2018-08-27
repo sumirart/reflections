@@ -24,3 +24,8 @@ instead of another?
     repository to local, or from local to our github. We use branch if we want to
     make another path for our work, like when we trying experiment with adding some
     features or adding another version of the project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    We always up to date of whatever in the remote. Also we can compare with newer commit
+    by someone/ourself before we push our local commit.
